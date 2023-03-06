@@ -6,11 +6,11 @@ Also implement caching system for saving users locally.
 Tech stack :
 
 Kotlin 
-MVVM 
-Jetpack Compose 
-Room 
-Coroutines 
-Flow 
-Hilt 
-Retrofit 
-Coil 
+- MVVM 
+- Jetpack Compose 
+- Room 
+- Coroutines 
+- Flow 
+- Hilt 
+- Retrofit 
+- Coil 
